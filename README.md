@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shehryar49
+- 👋 Hi, I’m Shahryar Ahmad 
 - 👀 I’m interested in C/C++,Plutonium and Python
 - 🌱 I’m currently learning language design
 - I created the Plutonium programming language
