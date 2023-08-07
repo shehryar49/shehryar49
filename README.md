@@ -8,7 +8,7 @@
 - 📫 How to reach me **shehryarshahid49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/shahryar-ahmad-057422202
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
