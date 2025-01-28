@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahryar Ahmad</h1>
-<h3 align="center">A self taught programmer from Pakistan.</h3>
+<h3 align="center">A self taught computer scientist from Pakistan.</h3>
 
-- 🔭 I’m currently working on [Zuko Programming Language](Compiler Construction)
+- 🔭 I’m currently working on Research projects and [Zuko Programming Language](Compiler Construction)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
